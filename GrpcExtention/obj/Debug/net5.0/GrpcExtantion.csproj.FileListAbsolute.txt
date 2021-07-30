@@ -1,0 +1,12 @@
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\bin\Debug\net5.0\GrpcExtantion.deps.json
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\bin\Debug\net5.0\GrpcExtantion.dll
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\bin\Debug\net5.0\ref\GrpcExtantion.dll
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\bin\Debug\net5.0\GrpcExtantion.pdb
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\obj\Debug\net5.0\GrpcExtantion.csprojAssemblyReference.cache
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\obj\Debug\net5.0\GrpcExtantion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\obj\Debug\net5.0\GrpcExtantion.AssemblyInfoInputs.cache
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\obj\Debug\net5.0\GrpcExtantion.AssemblyInfo.cs
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\obj\Debug\net5.0\GrpcExtantion.csproj.CoreCompileInputs.cache
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\obj\Debug\net5.0\GrpcExtantion.dll
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\obj\Debug\net5.0\ref\GrpcExtantion.dll
+C:\Users\WebDeveloper\source\repos\GrpcServer\GrpcExtantion\obj\Debug\net5.0\GrpcExtantion.pdb
